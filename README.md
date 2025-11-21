@@ -25,6 +25,6 @@ streamlit run app.py
 
 ## Team
 This project was a collaboration between:
--Aly Mohamed
--Safa Walid
 -Nour Ehab 
+-Safa Walid
+-Aly Mohamed
